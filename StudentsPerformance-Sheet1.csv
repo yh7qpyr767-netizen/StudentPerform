@@ -1,4 +1,4 @@
-gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+gender,raceethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
 female,group B,bachelor's degree,standard,none,72,72,74
 female,group C,some college,standard,completed,69,90,88
 female,group B,master's degree,standard,none,90,95,93
@@ -98,3 +98,4 @@ male,group C,associate's degree,free/reduced,completed,78,81,82
 male,group B,some high school,standard,completed,65,66,62
 female,group E,some college,standard,completed,63,72,70
 female,group D,some college,free/reduced,none,58,67,62
+
